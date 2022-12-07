@@ -40,3 +40,8 @@ tr {
 td {
   width: 50%;
 }
+
+.pseduoHeader.logo {
+  text-align: center;
+  margin-top: 10%;
+}
