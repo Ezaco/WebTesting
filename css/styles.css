@@ -3,6 +3,20 @@ body {
   font-face: arial;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: #ccc;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
 .centered {
   position: fixed;
   top: 50%;
