@@ -10,6 +10,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.logo {
+  margin-left: 10%;
+}
+
 .topText {
   text-align: center;
   font-weight: bold;
@@ -28,10 +32,10 @@ table {
   width: 100%;
 }
 
-.leftLink {
-  text-align: left;
+tr {
+  text-align: center;
 }
 
-.rightLink {
-  text-align: right;
+td {
+  width: 50%;
 }
