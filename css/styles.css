@@ -10,8 +10,9 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.topText {
+.topText, .bottomText {
   text-align: center;
   font-weight: bold;
   color: white;
+  font-size: 24px;
 }
